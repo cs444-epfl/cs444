@@ -1,0 +1,3 @@
+[submodule "ho4"]
+	path = ho4
+	url = git@github.com:cs444-epfl/ho4.git
