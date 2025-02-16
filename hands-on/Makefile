@@ -2,7 +2,7 @@
 
 .PHONY: all clean
 
-TARGETS = out/ho1.pdf out/ho2.pdf out/ho3.pdf out/ho4.pdf
+TARGETS = out/ho1.pdf out/ho2.pdf out/ho3.pdf out/ho4.pdf out/ho5.pdf
 
 all: $(TARGETS)
 
