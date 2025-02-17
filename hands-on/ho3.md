@@ -1,4 +1,4 @@
-# Week 3: Explore the XR Interaction Toolkit
+# HO3: Explore the XR Interaction Toolkit
 
 ## Objectives
 - Get familiar with the [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html)

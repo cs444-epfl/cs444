@@ -1,4 +1,4 @@
-# Week 2: Introduction to Unity, continued
+# HO2: XR in Unity
 
 ## Objectives
 - Install the [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html) in a Unity project

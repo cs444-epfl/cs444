@@ -1,4 +1,4 @@
-# Week 4: Create your own game!
+# HO4: Create your own game!
 
 ## Objectives
 - Create a VR game from scratch

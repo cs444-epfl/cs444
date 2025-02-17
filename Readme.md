@@ -13,7 +13,7 @@ These tutorials are supplementary materials designed to help you get started and
 We strongly recommend completing them on time (or even ahead of schedule) to save valuable development time later.  
 Although these documents aim to provide a foundational understanding of the topic, they don't cover every detail. We highly encourage you to seek additional online documentation.
 
-### Week 1 ([`ho1.md`](hands-on/ho1.md))
+### HO1 ([`ho1.md`](hands-on/ho1.md))
 - **Set up Git and GitHub**
 - Install **[Unity](https://unity.com/download)** 
 - _Access the **[Unity student plan](https://unity.com/products/unity-student)**_
@@ -21,16 +21,16 @@ Although these documents aim to provide a foundational understanding of the topi
 - Install **[Meta Quest Developer Hub](https://developers.meta.com/horizon/documentation/unity/ts-odh/)**
 - Complete missions 1 to 4 from the **[Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials)**
 
-### Week 2 ([`ho2.md`](hands-on/ho2.md))
+### HO2 ([`ho2.md`](hands-on/ho2.md))
 - Install the **[XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html)** in a Unity project
 - Play your VR game through the **`XR Device Simulator`**
 - Set up your **headset**
 - **Build** and upload your game to your headset
 
-### Week 3 ([`ho3.md`](hands-on/ho3.md))
+### HO3 ([`ho3.md`](hands-on/ho3.md))
 - Get familiar with the **[XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html)**
 
-### Week 4 ([`ho4.md`](hands-on/ho4.md))
+### HO4 ([`ho4.md`](hands-on/ho4.md))
 - **Create a VR game** from scratch
 - Get comfortable with **basic XR interactions**
 - Get comfortable using the components and samples of **XRIT**
@@ -43,6 +43,10 @@ git submodule update --init --recursive
 ```
 
 Alternatively, you can directly clone the [HO4 repository](https://github.com/cs444-epfl/ho4). 
+
+### HO5 ([`ho5.md`](hands-on/ho5.md))
+- Create a VR game featuring hand tracking and interaction
+- Learn some good Unity practices
 
 ## Project description ([`project.md`](project.md))
 It contains a description of the requirements you need to meet with your project as well as the content you need to submit.

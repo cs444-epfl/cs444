@@ -1,4 +1,4 @@
-# Week 5: Hand tracking and advanced Unity concepts
+# HO5: Hand tracking and advanced Unity concepts
 
 ## Objectives
 - Create a VR game featuring hand tracking and interaction

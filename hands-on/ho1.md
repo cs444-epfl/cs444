@@ -1,4 +1,4 @@
-# Week 1: Setup of the environment
+# HO1: Setup and introduction to Unity
 
 ## Objectives
 - [Set up Git and GitHub](#set-up-git-and-github) and become comfortable with their basic functionalities:
