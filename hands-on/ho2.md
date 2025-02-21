@@ -3,7 +3,7 @@
 ## Objectives
 - Install the [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html) in a Unity project
 - Play your VR game through the `XR Device Simulator`
-  - Set up your headset
+- Set up your headset
 - Build and upload your game to your headset
 
 ## Set up a project for VR
