@@ -86,6 +86,11 @@ Here are som examples:
 
 **Cybersickness Consideration**: Your game needs to consider the cybersickness felt by the player and try reducing it as much as possible. Do not hesitate to pinpoint which elements were used towards this goal.
 
+### Tutorial
+Your game must include a (skippable) tutorial designed to let players **intuitively** learn how to play. Avoid large blocks of plain text like "Press X to...". Instead, introduce interactions naturally through gameplay.
+
+The tutorial does not need to be a single, continuous sequence. Introducing features when they first become relevant during the game is an excellent way to teach players dynamically.
+
 ## Submission and Grading
 
 ### GitHub repository
