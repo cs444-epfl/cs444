@@ -1,5 +1,5 @@
 # CS-444 Project Description
-This project requires a team of 3 to 4 students to collaborate on developing a fully playable and stable VR game.  
+This project requires a team of 4 students to collaborate on developing a fully playable and stable VR game.  
 The game concept is open-ended, as long as it respects the outlined requirements.
 
 ## Requirements
@@ -50,7 +50,7 @@ Each feature should represent a meaningful part of your gameplay. However, they 
 **Cybersickness Consideration**: Your game needs to consider the cybersickness felt by the player and try reducing it as much as possible. Do not hesitate to pinpoint which elements were used towards this goal.
 
 ### Custom features
-You must implement **three** additional custom features (or **four** for teams of 4 students). These features must be designed and implemented by your team, meaning merely following online tutorials or downloading scripts/assets without significant modification is not allowed. If you're unsure if your idea is appropriate, do not hesitate to ask the opinion of a staff member.
+You must implement **four** additional custom features (or **three** for teams of 3 students). These features must be designed and implemented by your team, meaning merely following online tutorials or downloading scripts/assets without significant modification is not allowed. If you're unsure if your idea is appropriate, do not hesitate to ask the opinion of a staff member.
 
 #### Movement Interaction Requirement
 At least one custom feature should provide a movement interaction beyond simple joystick navigation (arm movements / positioning, steerwheel, ...)  
