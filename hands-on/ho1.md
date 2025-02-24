@@ -30,7 +30,7 @@ Version control systems, like Git, keep a history of all changes made to a proje
 Learning version control early will be invaluable throughout this course and in any collaborative development environment, making it easier to manage projects, collaborate effectively, and keep your work organized and safe.
 
 In this class, we require you using Git, the most popular version control system.
-You must become familiar with Git and GitHub because you will submit your project as a private GitHub repository. 
+You must become familiar with Git and GitHub because you will submit your project as a GitHub repository. 
 
 If you're new to Git, we recommend using online resources, starting with GitHub's official [Getting started with Git](https://docs.github.com/en/get-started/getting-started-with-git) tutorial, 
 especially the [Set up Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git) section.
