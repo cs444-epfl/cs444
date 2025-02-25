@@ -105,7 +105,7 @@ On Moodle, submit the link to a **public** GitHub repository containing:
 
 Since the repository needs to be public, remember to license it properly. You can typically use an MIT license (simply copy our [`LICENSE`](LICENSE) file).
 
-If you wish to keep your repository private, please contact the class staff.
+If you wish to keep your repository private or if you used any **paid or licensed** assets, please contact the class staff.
 
 ### Build of the game
 On Moodle, submit a build of your game as a `.apk` file compatible with Quest, Quest 2, or Quest 3 devices. Name the file as `<team_number>_<device>.apk`, where `<device>` is one of: `quest`, `quest2`, `quest3`.
