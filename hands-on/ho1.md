@@ -53,7 +53,7 @@ Additionally, since Unity projects can be large, you might need [Git LFS (Large 
 ## Install Unity
 To create your VR projects, you will use Unity, a game engine offering a wide range of pre-built features and one of the simplest workflows for VR development.
 
-Follow the installation instructions [here](https://unity.com/download) and ensure you select the latest Unity LTS version (Unity 6). We cannot provide support for any other versions of Unity. Make sure to install the `Android Build Support` module as well.
+Follow the installation instructions [here](https://unity.com/download) and ensure you select the latest Unity LTS version (Unity 6). We cannot provide support for any other versions of Unity. Make sure to install the `Android Build Support` module as well. **All team members should download the exact same Unity version**, otherwise version control will not work!
 
 For additional free 3D assets, consider signing up for the [Unity student plan](https://unity.com/products/unity-student).
 
