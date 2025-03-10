@@ -43,7 +43,7 @@ Your game must incorporate the following built-in XRIT features:
 - Poke interaction 
 - Socket interaction
 
-Each feature should represent a meaningful part of your gameplay. However, they don't all need to be active simultaneously. For instance, you can allow players to toggle between continuous move and teleportation modes.
+Each feature should be available in the project. However, they don't all have to be an integral part of the game nor included simultaneously inside the game. For instance, you can allow players to toggle between interactions such as choosing continuous or teleportation movement in a hub/tutorial space before starting the game.
 
 **Feedback Requirement**: Include comprehensive feedback (visual, audio, or haptic) for each interaction. Interactions should be intuitive and pleasant for the user.
 
