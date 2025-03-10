@@ -47,12 +47,23 @@ You will find a [concise version of this tutorial (`unity_setup.md`)](../resourc
 Play the **`DemoScene`** (`Assets > Samples > XR Interaction Toolkit > {version} > Starter Assets > DemoScene`) on your computer using the **`XR Device Simulator`**. To enable the XR Device Simulator, tick: `Edit > Project settings > XR Plug-in Management > XR Interaction Toolkit > Use XR Device Simulator in scenes`
 
 ## Set up your headset (one per team)
-The headset you received have been pre-configured to enable developer mode (to upload private apps manually). We recommend installing the Meta Quest Developer Hub to ease up the process of uploading a game to the headset.
+The headset you received have been pre-configured. We recommend installing the Meta Quest Developer Hub to ease up the process of uploading a game to the headset. Unfortunately, we can't use two different accounts for the headset and the Meta Quest Developer Hub app anymore.
 
-- Make sure you correctly installed the **Meta Quest Developer Hub** (see [HO1](./ho1.md) for instructions). Open it
-- Connect your headset to your computer via USB-C  
-  In the headset, you will be prompted to allow connections coming from this computer. Allow them.
-- _If your local machine runs on Windows, you can use [Link](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/connect-with-air-link/) to avoid building your game every time you want to test it. However, we will not provide any support._
+To solve this issue, you will have to do a complete setup of your headset using your own developer account:
+
+1. **[Factory reset](https://www.meta.com/en-gb/help/quest/149134797159340/?srsltid=AfmBOoqvSr1Xfl1gVLi0ym_ZYmGVjP7r6uc3kC5AiUUK_loCoxcRUJBN)** (Meta Quest section) your headset to make sure it is in a fresh and bugless state
+2. You will be required to download the **[Meta Horizon mobile app](https://www.meta.com/en-gb/help/quest/1178714089211378/?srsltid=AfmBOopCjP2kEATXsZQNsOQzn1nrq4BV6ToW7gt-6hrUyijWqWQGLoet)**. (one per team)
+3. **Pair the HMD to the Meta Horizon mobile app**:   
+In the app select `Menu > Devices > Connect new device` (scroll down the list to see the option) then follow the instructions. It will ask to pair the headset with a Wi-Fi and will proceed to update the headset.
+4. **[Enable the developer settings on your headset](https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/)**:  
+In the Meta Horizon mobile app select the headset then `Headset Settings > Developer Mode >` toggle on the button.  
+Confirm the developer mode is enabled for your headset: 
+   - **Quest 1**: `Quick Settings > Settings > System > Developer` 
+   - **Quest 2**: `Advanced -> Developer section`
+1. Please also allow the hand tracking feature (under `Movement Tracking`) if you plan on using it.
+2. You should then be able to [set up a new device in the MQDH app](https://developers.meta.com/horizon/documentation/native/android/ts-odh-device-setup/).
+
+_If your local machine runs on Windows, you can use [Link](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/connect-with-air-link/) to avoid building your game every time you want to test it. However, we will not provide any support._
 
 You should now see a screen similar to this one: 
 
@@ -67,7 +78,7 @@ _Remember the **`Apps`** panel. This is where you'll upload your game._
 - Make sure the build **target platform** is set to **Android** (`File > Build Profiles > Platforms/Android`)
 - Make sure the scene you want to build is in your **build scene list**: `File > Build Profiles > Platforms/Android > Scene List`. Add the **`DemoScene`** in the list and remove any other scenes.
 - Click on **`Build`** to create the **`.apk`** file of your game  
-  _Tip: Save all your builds under `Assets > Builds` for a cleaner project structure_  
+  _Tip: Save all your builds under `Builds` for a cleaner project structure_  
   _Note: Optionally, you can use `Build And Run` to directly upload to your headset if connected._  
 
 A popup indicating "Unsupported Input Handling" may appear. Click `No` and set `Edit > Project Settings > Player > Active Input Handling > Input System Package (New)`. This will restart your editor.
