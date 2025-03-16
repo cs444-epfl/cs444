@@ -37,7 +37,7 @@ Your game must incorporate the following built-in XRIT features:
 - Continuous rotation
 - Snap rotation
 - Climb
-- Grab move
+- *Grab move (optional)*
 - Near interaction
 - Far interaction
 - Poke interaction 
